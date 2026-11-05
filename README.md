@@ -1,7 +1,7 @@
 # self-contained-hacking-lab
 setting up my lab
 
-1. I downloaded kali Linux, c++, metasploitable 2 and VirtualBox.
+1. I downloaded kali Linux, c++, Metasploitable 2 and VirtualBox.
 2. I created two machines in VirtualBox: Kali Linux (the attacker), and Metasploitable 2 (the dummy).
 3. I tested if they can see each other by pinging Metasploitable 2 on my Kali Linux virtual machine and received the packets.
 
